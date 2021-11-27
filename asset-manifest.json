@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.afc9ac5e.chunk.css",
-    "main.js": "/static/js/main.5b22cd10.chunk.js",
-    "main.js.map": "/static/js/main.5b22cd10.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.56900458.js",
-    "runtime-main.js.map": "/static/js/runtime-main.56900458.js.map",
-    "static/js/2.87e3d176.chunk.js": "/static/js/2.87e3d176.chunk.js",
-    "static/js/2.87e3d176.chunk.js.map": "/static/js/2.87e3d176.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.afc9ac5e.chunk.css.map": "/static/css/main.afc9ac5e.chunk.css.map",
-    "static/js/2.87e3d176.chunk.js.LICENSE.txt": "/static/js/2.87e3d176.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/darkGrey-lego-1.9c11a9a8.jpg",
-    "static/media/lego-logo.b02efc07.svg": "/static/media/lego-logo.b02efc07.svg"
+    "main.css": "/react-lego-app/static/css/main.48191595.chunk.css",
+    "main.js": "/react-lego-app/static/js/main.5b22cd10.chunk.js",
+    "main.js.map": "/react-lego-app/static/js/main.5b22cd10.chunk.js.map",
+    "runtime-main.js": "/react-lego-app/static/js/runtime-main.803e3365.js",
+    "runtime-main.js.map": "/react-lego-app/static/js/runtime-main.803e3365.js.map",
+    "static/js/2.87e3d176.chunk.js": "/react-lego-app/static/js/2.87e3d176.chunk.js",
+    "static/js/2.87e3d176.chunk.js.map": "/react-lego-app/static/js/2.87e3d176.chunk.js.map",
+    "index.html": "/react-lego-app/index.html",
+    "static/css/main.48191595.chunk.css.map": "/react-lego-app/static/css/main.48191595.chunk.css.map",
+    "static/js/2.87e3d176.chunk.js.LICENSE.txt": "/react-lego-app/static/js/2.87e3d176.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-lego-app/static/media/darkGrey-lego-1.9c11a9a8.jpg",
+    "static/media/lego-logo.b02efc07.svg": "/react-lego-app/static/media/lego-logo.b02efc07.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.56900458.js",
+    "static/js/runtime-main.803e3365.js",
     "static/js/2.87e3d176.chunk.js",
-    "static/css/main.afc9ac5e.chunk.css",
+    "static/css/main.48191595.chunk.css",
     "static/js/main.5b22cd10.chunk.js"
   ]
 }
