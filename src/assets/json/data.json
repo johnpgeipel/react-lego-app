@@ -328,5 +328,38 @@
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6201722.pdf",
         "pdfTwo": ""
+    },
+    {
+        "setId": "40422",
+        "name": "Frankenstein",
+        "pieces": "108",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/blt6afc2e64197cac35/40422.jpg?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
+        "theme": "BrickHeadz",
+        "array": "brickArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt117f545a76e30723/brickheadz_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6328450.pdf",
+        "pdfTwo": ""
+    },
+    {
+        "setId": "40436",
+        "name": "Lucky Cat",
+        "pieces": "134",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/blt1595a03a848ef9c1/40436.jpg?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
+        "theme": "BrickHeadz",
+        "array": "brickArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt117f545a76e30723/brickheadz_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6309022.pdf",
+        "pdfTwo": ""
+    },
+    {
+        "setId": "30388",
+        "name": "Imperial Shuttle™",
+        "pieces": "85",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/bltd62739f15309e5a6/30388.jpg?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6356161.pdf",
+        "pdfTwo": ""
     }
 ]

@@ -16,7 +16,7 @@ class App extends Component {
     toggleSearch: true,
     toggleHeader: false,
     toggleFooter: false,
-    date: new Date().getFullYear()
+    date: new Date().getFullYear(),
   };
 
   componentDidMount() {
@@ -73,7 +73,6 @@ class App extends Component {
 
   cardContainerStyle = () => {
     const cardContainer = document.getElementById('card-container');
-    console.log(cardContainer);
     cardContainer.classList.add('marginBottom');
   };
 
