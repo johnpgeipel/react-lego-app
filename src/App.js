@@ -101,6 +101,8 @@ class App extends Component {
             setId={ this.state.currentSet[0].setId }
             themeLogo={ this.state.currentSet[0].themeLogo }
             pieces={ this.state.currentSet[0].pieces }
+            pdfOne={ this.state.currentSet[0].pdfOne }
+            pdfTwo={ this.state.currentSet[0].pdfTwo }
             columnClass="card-col-one"
             containerClass="img-col-one"
             titleClass="title-col-one"
@@ -114,6 +116,8 @@ class App extends Component {
               setId={ obj.setId }
               themeLogo={ obj.themeLogo }
               pieces={ obj.pieces }
+              pdfOne={ obj.pdfOne }
+              pdfTwo={ obj.pdfTwo }
               columnClass="card-col-one"
               containerClass="img-col-one"
               titleClass="title-col-one"
@@ -127,6 +131,8 @@ class App extends Component {
                 setId={ obj.setId }
                 themeLogo={ obj.themeLogo }
                 pieces={ obj.pieces }
+                pdfOne={ obj.pdfOne }
+                pdfTwo={ obj.pdfTwo }
                 />
               ) : null
           }

@@ -17,9 +17,21 @@ const Card = (props) => {
                     </div>
                     <hr/>
                     <span>Pieces: { props.pieces }</span>
-                    <button type="button" className="btn btn-danger">
-                        <a className="card-btn single-pdf-btn" href={ props.pdfOne} target="_blank" rel="noreferrer">PDF</a>
-                    </button>
+                    { props.pdfTwo ? (
+                        <>
+                        <button type="button" className="btn btn-danger">
+                            <a className="card-btn" href={ props.pdfTwo} target="_blank" rel="noreferrer">PDF 2</a>
+                        </button>
+                        <button type="button" className="btn btn-danger">
+                            <a className="card-btn" href={ props.pdfOne} target="_blank" rel="noreferrer">PDF 1</a>
+                        </button>
+                        </>
+                        ) : (
+                        <button type="button" className="btn btn-danger">
+                            <a className="card-btn single-pdf-btn" href={ props.pdfOne} target="_blank" rel="noreferrer">PDF</a>
+                        </button>
+                        )
+                    }
                 </div>
             </div>
         </div>
