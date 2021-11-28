@@ -13,7 +13,7 @@ class App extends Component {
     selectVal: '',
     currentSet: null,
     currentTheme: null,
-    toggleSearh: true,
+    toggleSearch: true,
     toggleHeader: false,
     toggleFooter: false,
     date: new Date().getFullYear()
@@ -33,7 +33,7 @@ class App extends Component {
       selectVal: eventVal,
       currentSet: this.state.data.filter( item => item.setId === eventVal),
       currentTheme: null,
-      toggleSearh: !this.state.toggleSearh,
+      toggleSearch: !this.state.toggleSearch,
       toggleHeader: true,
       toggleFooter: true
     });
@@ -46,7 +46,7 @@ class App extends Component {
       selectVal: eventVal,
       currentSet: null,
       currentTheme: this.state.data.filter( item => item.theme === eventVal),
-      toggleSearh: !this.state.toggleSearh,
+      toggleSearch: !this.state.toggleSearch,
       toggleHeader: true,
       toggleFooter: true,
     });
@@ -61,7 +61,7 @@ class App extends Component {
 
   handleToggle = () => {
     this.setState({
-      toggleSearh: !this.state.toggleSearh
+      toggleSearch: !this.state.toggleSearch
     });
   };
 
@@ -86,7 +86,7 @@ class App extends Component {
           >
           <Form
             data={ this.state.data }
-            toggleSearh={ this.state.toggleSearh }
+            toggleSearch={ this.state.toggleSearch }
             handleToggle={ this.handleToggle }
             handleItemSelect={ this.handleItemSelect }
             handleThemeSelect={ this.handleThemeSelect }

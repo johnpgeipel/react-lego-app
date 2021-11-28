@@ -1,21 +1,19 @@
 import React from 'react';
 
 const Form = (props) => {
-    
+    const themes = [];
     const sortData = props.data.sort((a, b) => (a.name > b.name) ? 1 : -1);
-
-    let themes = [];
+    
     sortData.map(obj => themes.push(obj.theme));
 
-    let sortThemes = [...new Set(themes)];
-    sortThemes.sort((a, b) => (a > b) ? 1 : -1);
+    const sortThemes = [...new Set(themes)].sort((a, b) => (a > b) ? 1 : -1);
 
     return (
         <div className="container form-container">
             <div className="form-search-btn" role="button" aria-hidden="false" onClick={props.handleToggle}>
                 <i className="fa fa-search"><span id="search-text">Search</span></i>
             </div>
-            <div className={!props.toggleSearh ? "select-form openForm" : "select-form"}>
+            <div className={!props.toggleSearch ? "select-form openForm" : "select-form"}>
                 <select id="form-select-name" className="form-select" aria-label="Default select example" onChange={props.handleItemSelect} defaultValue="Select Sets by Name">
                     <option id="form-option-name" value="Select Sets by Name" disabled>Select Sets by Name</option>
                     <option disabled></option>
