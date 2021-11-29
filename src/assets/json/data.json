@@ -361,5 +361,93 @@
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6356161.pdf",
         "pdfTwo": ""
+    },
+    {
+        "setId": "75168",
+        "name": "Yoda's Jedi Starfighter™",
+        "pieces": "262",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/blt18fccdae03837f5e/75168.jpg?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6186617.pdf",
+        "pdfTwo": ""
+    },
+    {
+        "setId": "75312",
+        "name": "Boba Fett’s Starship™",
+        "pieces": "325",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/blteb1fa8e4ac4f2617/75312.jpg?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6382342.pdf",
+        "pdfTwo": ""
+    },
+    {
+        "setId": "75242",
+        "name": "Black Ace TIE Interceptor™",
+        "pieces": "396",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/bltc20a77d50fef3d07/75242.jpg?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6278405.pdf",
+        "pdfTwo": ""
+    },
+    {
+        "setId": "30384",
+        "name": "Snowspeeder™",
+        "pieces": "49",
+        "imgUrl": "https://www.lego.com/cdn/product-assets/product.img.pri/30384_Prod.jpg",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6278169.pdf",
+        "pdfTwo": ""
+    },
+    {
+        "setId": "30386",
+        "name": "Poe Dameron's X-wing Fighter™",
+        "pieces": "72",
+        "imgUrl": "https://www.lego.com/cdn/product-assets/product.img.pri/30386_Prod.jpg",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6310733.pdf",
+        "pdfTwo": ""
+    },
+    {
+        "setId": "30461",
+        "name": "Podracer™",
+        "pieces": "58",
+        "imgUrl": "https://img.bricklink.com/ItemImage/SN/0/30461-1.original.png",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6296767.pdf",
+        "pdfTwo": ""
+    },
+    {
+        "setId": "30279",
+        "name": "Kylo Ren's Command Shuttle™",
+        "pieces": "43",
+        "imgUrl": "https://www.lego.com/cdn/product-assets/product.img.pri/30279_prod.jpg",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6142970.pdf",
+        "pdfTwo": ""
+    },
+    {
+        "setId": "30380",
+        "name": "Kylo Ren's Shuttle",
+        "pieces": "33",
+        "imgUrl": "https://www.lego.com/cdn/product-assets/product.img.pri/30380_Prod.jpg",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6225823.pdf",
+        "pdfTwo": ""
     }
 ]
