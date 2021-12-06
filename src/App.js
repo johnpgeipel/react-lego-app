@@ -9,7 +9,7 @@ import './App.css';
 
 class App extends Component {
   state = {
-    data: collection,
+    data: [],
     selectVal: '',
     currentSet: null,
     toggleSearch: true,
@@ -20,11 +20,13 @@ class App extends Component {
 
   componentDidMount() {
     console.log(this.state.data)
+    this.setState({
+      data: collection
+    })
   };
 
   componentDidUpdate() {
     console.log(this.state)
-    
   };
 
   handleItemSelect = (event) => {
