@@ -4,10 +4,10 @@ const Card = (props) => {
     
     return(
         <div className={ "card-col col-lg-4 col-md-6 col-sm-6 col-12 " + props.columnClass}>
-            <div className="card" style={{marginTop: 0 + 'px', opacity: 1}}>
+            <div className="card">
                 <div className={"img-container " + props.containerClass}>
                     <img className="card-img-top" loading="lazy" alt={ props.name } src={ props.imgUrl}></img>
-                    <i className="fa fa-arrows-alt" style={{fontSize: 20 + 'px', color: '#6e6e6e72'}}></i>
+                    <i className="fa fa-arrows-alt"></i>
                 </div>
                 <div className="card-body">
                     <h6 className="card-id">#{ props.setId }</h6>

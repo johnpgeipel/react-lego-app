@@ -12,7 +12,6 @@ class App extends Component {
     data: collection,
     selectVal: '',
     currentSet: null,
-    currentTheme: null,
     toggleSearch: true,
     toggleHeader: false,
     toggleFooter: false,
@@ -25,14 +24,14 @@ class App extends Component {
 
   componentDidUpdate() {
     console.log(this.state)
+    
   };
 
   handleItemSelect = (event) => {
     const eventVal = event.target.value;
     this.setState({
       selectVal: eventVal,
-      currentSet: this.state.data.filter( item => item.setId === eventVal),
-      currentTheme: null,
+      currentSet: eventVal === "All sets" ? this.state.data : this.state.data.filter( item => item.setId === eventVal),
       toggleSearch: !this.state.toggleSearch,
       toggleHeader: true,
       toggleFooter: true
@@ -44,8 +43,7 @@ class App extends Component {
     const eventVal = event.target.value;
     this.setState({
       selectVal: eventVal,
-      currentSet: null,
-      currentTheme: this.state.data.filter( item => item.theme === eventVal),
+      currentSet: eventVal === "All sets" ? this.state.data : this.state.data.filter( item => item.theme === eventVal),
       toggleSearch: !this.state.toggleSearch,
       toggleHeader: true,
       toggleFooter: true,
@@ -92,38 +90,9 @@ class App extends Component {
           />
         </Jumbotron>
         <Row>
-          { this.state.currentSet ?
-            <Card
-            key={ this.state.currentSet[0].setId }
-            name={ this.state.currentSet[0].name }
-            imgUrl={ this.state.currentSet[0].imgUrl }
-            setId={ this.state.currentSet[0].setId }
-            themeLogo={ this.state.currentSet[0].themeLogo }
-            pieces={ this.state.currentSet[0].pieces }
-            pdfOne={ this.state.currentSet[0].pdfOne }
-            pdfTwo={ this.state.currentSet[0].pdfTwo }
-            columnClass="card-col-one"
-            containerClass="img-col-one"
-            titleClass="title-col-one"
-            /> :
-            this.state.currentTheme && this.state.currentTheme.length === 1 ?
-              this.state.currentTheme.map(obj => 
+          { this.state.currentSet && this.state.currentSet.length === 1 ?
+            this.state.currentSet.map(obj =>
               <Card
-              key={ obj.setId }
-              name={ obj.name }
-              imgUrl={ obj.imgUrl }
-              setId={ obj.setId }
-              themeLogo={ obj.themeLogo }
-              pieces={ obj.pieces }
-              pdfOne={ obj.pdfOne }
-              pdfTwo={ obj.pdfTwo }
-              columnClass="card-col-one"
-              containerClass="img-col-one"
-              titleClass="title-col-one"
-              />
-              ) : this.state.currentTheme ?
-              this.state.currentTheme.map(obj => 
-                <Card
                 key={ obj.setId }
                 name={ obj.name }
                 imgUrl={ obj.imgUrl }
@@ -132,8 +101,24 @@ class App extends Component {
                 pieces={ obj.pieces }
                 pdfOne={ obj.pdfOne }
                 pdfTwo={ obj.pdfTwo }
+                columnClass="card-col-one"
+                containerClass="img-col-one"
+                titleClass="title-col-one"
+              />
+            ) :
+            this.state.currentSet ?
+              this.state.currentSet.map(obj =>
+                <Card
+                  key={ obj.setId }
+                  name={ obj.name }
+                  imgUrl={ obj.imgUrl }
+                  setId={ obj.setId }
+                  themeLogo={ obj.themeLogo }
+                  pieces={ obj.pieces }
+                  pdfOne={ obj.pdfOne }
+                  pdfTwo={ obj.pdfTwo }
                 />
-              ) : null
+            ) : null
           }
         </Row>
         <Footer

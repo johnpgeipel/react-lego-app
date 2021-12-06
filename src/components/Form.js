@@ -17,6 +17,7 @@ const Form = (props) => {
                 <select id="form-select-name" className="form-select" aria-label="Default select example" onChange={props.handleItemSelect} defaultValue="Select Sets by Name">
                     <option id="form-option-name" value="Select Sets by Name" disabled>Select Sets by Name</option>
                     <option disabled></option>
+                    <option value="All sets">All sets</option>
                         { sortData ?
                             sortData.map( item => 
                                 <option id={ item.setId } key={ item.setId } value={ item.setId }>{ item.name }</option>
@@ -26,6 +27,7 @@ const Form = (props) => {
                 <select id="form-select-theme" className="form-select" aria-label="Default select example" onChange={props.handleThemeSelect} defaultValue="Select Sets by Theme">
                     <option id="form-option-theme" disabled value="Select Sets by Theme">Select Sets by Theme</option>
                     <option disabled></option>
+                    <option value="All sets">All themes</option>
                         { sortThemes ?
                             sortThemes.map( item => 
                                 <option id={ item } key={ item } value={ item }>{ item }</option>
