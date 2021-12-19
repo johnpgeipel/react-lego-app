@@ -20,14 +20,9 @@ class App extends Component {
   };
 
   componentDidMount() {
-    console.log(this.state.data)
     this.setState({
       data: collection
     })
-  };
-
-  componentDidUpdate() {
-    console.log(this.state)
   };
 
   handleItemSelect = (event) => {
