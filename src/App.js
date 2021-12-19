@@ -4,7 +4,8 @@ import Form from './components/Form';
 import Row from './components/Row';
 import Card from './components/Card';
 import Footer from './components/Footer';
-import collection from './assets/json/data.json'
+import collection from './assets/json/data.json';
+import Panzoom from '@panzoom/panzoom';
 import './App.css';
 
 class App extends Component {
@@ -76,6 +77,22 @@ class App extends Component {
     cardContainer.classList.add('marginBottom');
   };
 
+  handleMouseEnter = (e) => {
+    const panzoom = Panzoom(e.target, {
+      maxScale: 5
+    });
+    panzoom.pan(10, 10);
+    panzoom.zoom(2.5, { animate: true });
+  };
+
+  handleMouseLeave = (e) => {
+    const panzoom = Panzoom(e.target, {
+      disablePan: true
+    });
+    panzoom.zoom(1, { animate: true });
+    panzoom.resetStyle();
+  };
+
   render() {
     return (
       <div className="App">
@@ -106,6 +123,8 @@ class App extends Component {
                 columnClass="card-col-one"
                 containerClass="img-col-one"
                 titleClass="title-col-one"
+                handleMouseEnter={this.handleMouseEnter}
+                handleMouseLeave={this.handleMouseLeave}
               />
             ) :
             this.state.currentSet ?
@@ -119,6 +138,8 @@ class App extends Component {
                   pieces={ obj.pieces }
                   pdfOne={ obj.pdfOne }
                   pdfTwo={ obj.pdfTwo }
+                  handleMouseEnter={this.handleMouseEnter}
+                  handleMouseLeave={this.handleMouseLeave}
                 />
             ) : null
           }

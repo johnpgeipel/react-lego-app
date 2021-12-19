@@ -1,12 +1,19 @@
 import React from 'react';
 
 const Card = (props) => {
-    
+   
     return(
         <div className={ "card-col col-lg-4 col-md-6 col-sm-6 col-12 " + props.columnClass}>
             <div className="card">
                 <div className={"img-container " + props.containerClass}>
-                    <img className="card-img-top" loading="lazy" alt={ props.name } src={ props.imgUrl}></img>
+                    <img
+                        className="card-img-top"
+                        loading="lazy"
+                        alt={ props.name }
+                        src={ props.imgUrl}
+                        onMouseEnter={props.handleMouseEnter}
+                        onMouseLeave={props.handleMouseLeave}
+                    />
                     <i className="fa fa-arrows-alt"></i>
                 </div>
                 <div className="card-body">
