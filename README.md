@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# John's Legos
+
+![https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>](https://img.shields.io/badge/JavaScript-ff0000)
+![https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>](https://img.shields.io/badge/CSS-ff0000)
+![https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>](https://img.shields.io/badge/HTML-ff0000)
+![https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>](https://img.shields.io/badge/JSON-ff0000)
+![https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>](https://img.shields.io/badge/PanZoom-ff0000)
+
+## A React.js personal inventory of Lego sets
+
+[https://johnpgeipel.github.io/react-lego-app/](https://johnpgeipel.github.io/react-lego-app/)
+
+### Home page
+![home page](src\assets\images\react-lego-app001.PNG)
+### Search options
+![home page](src\assets\images\react-lego-app002.PNG)
+### Results
+![home page](src\assets\images\react-lego-app003.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+# React Information
 
 ## Available Scripts
 
@@ -68,3 +89,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### `npm run deploy`
+Deploys to gh-pages
