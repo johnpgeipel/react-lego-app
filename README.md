@@ -11,11 +11,11 @@
 [https://johnpgeipel.github.io/react-lego-app/](https://johnpgeipel.github.io/react-lego-app/)
 
 ### Home page
-![home page](src\assets\images\react-lego-app001.PNG)
+![home page](https://raw.githubusercontent.com/johnpgeipel/react-lego-app/master/src/assets/images/react-lego-app001.PNG)
 ### Search options
-![home page](src\assets\images\react-lego-app002.PNG)
+![home page](https://raw.githubusercontent.com/johnpgeipel/react-lego-app/master/src/assets/images/react-lego-app002.PNG)
 ### Results
-![home page](src\assets\images\react-lego-app003.PNG)
+![home page](https://raw.githubusercontent.com/johnpgeipel/react-lego-app/master/src/assets/images/react-lego-app003.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
