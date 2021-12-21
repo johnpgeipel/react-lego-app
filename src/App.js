@@ -77,7 +77,7 @@ class App extends Component {
       maxScale: 5
     });
     panzoom.pan(10, 10);
-    panzoom.zoom(2.5, { animate: true });
+    panzoom.zoom(1.7, { animate: true });
   };
 
   handleMouseLeave = (e) => {
