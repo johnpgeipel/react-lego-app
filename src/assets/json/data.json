@@ -449,5 +449,60 @@
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6225823.pdf",
         "pdfTwo": ""
+    },
+    {
+        "setId": "75321",
+        "name": "The Razor Crest™ Microfighter",
+        "pieces": "98",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/blt171f4c54ba9ed347/75321.png?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6403572.pdf",
+        "pdfTwo": ""
+    },
+    {
+        "setId": "76190",
+        "name": "Iron Man: Iron Monger Mayhem",
+        "pieces": "479",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/blt0c5e9d767488bf02/76190.jpg?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
+        "theme": "Marvel",
+        "array": "marvelArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltdd909357fcaf0a02/Marvel.png?format=png&height=60&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6380695.pdf",
+        "pdfTwo": ""
+    },
+    {
+        "setId": "30454",
+        "name": "Shang-Chi and The Great Protector",
+        "pieces": "55",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/blt82b1156fc6b8de52/30454.jpg?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
+        "theme": "Marvel",
+        "array": "marvelArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltdd909357fcaf0a02/Marvel.png?format=png&height=60&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6366165.pdf",
+        "pdfTwo": ""
+    },
+    {
+        "setId": "30578",
+        "name": "German Shepherd",
+        "pieces": "76",
+        "imgUrl": "https://www.lego.com/cdn/product-assets/product.img.pri/30578_Prod.jpg",
+        "theme": "Creator 3 in 1",
+        "array": "creatorArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt53e5eeb1dac31640/creator3in1_logo_pos_100h.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6348033.pdf",
+        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.additional.extra.pdf/30578_01_Build_Alt.pdf"
+    },
+    {
+        "setId": "31099",
+        "name": "Propeller Plane",
+        "pieces": "128",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/blt13690176629a57de/31099.jpg?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
+        "theme": "Creator 3 in 1",
+        "array": "creatorArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt53e5eeb1dac31640/creator3in1_logo_pos_100h.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6308554.pdf",
+        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6308555.pdf"
     }
 ]
