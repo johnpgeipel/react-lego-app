@@ -92,4 +92,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### `npm run deploy`
-Deploys to gh-pages
+Deploy to gh-pages ...
+
+### `git push origin master`
+... then push changes to master branch
+
+
