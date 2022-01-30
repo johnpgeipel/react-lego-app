@@ -504,5 +504,16 @@
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt53e5eeb1dac31640/creator3in1_logo_pos_100h.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6308554.pdf",
         "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6308555.pdf"
+    },
+    {
+        "setId": "75214",
+        "name": "Anakin's Jedi Starfighter™",
+        "pieces": "247",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/blt0f59a93fb04f0f86/75214.jpg?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6239916.pdf",
+        "pdfTwo": ""
     }
 ]
