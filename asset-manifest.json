@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-lego-app/static/css/main.5ce154b0.chunk.css",
-    "main.js": "/react-lego-app/static/js/main.b27cc5ae.chunk.js",
-    "main.js.map": "/react-lego-app/static/js/main.b27cc5ae.chunk.js.map",
+    "main.js": "/react-lego-app/static/js/main.3a3afb85.chunk.js",
+    "main.js.map": "/react-lego-app/static/js/main.3a3afb85.chunk.js.map",
     "runtime-main.js": "/react-lego-app/static/js/runtime-main.803e3365.js",
     "runtime-main.js.map": "/react-lego-app/static/js/runtime-main.803e3365.js.map",
     "static/js/2.c397c5ba.chunk.js": "/react-lego-app/static/js/2.c397c5ba.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.803e3365.js",
     "static/js/2.c397c5ba.chunk.js",
     "static/css/main.5ce154b0.chunk.css",
-    "static/js/main.b27cc5ae.chunk.js"
+    "static/js/main.3a3afb85.chunk.js"
   ]
 }
