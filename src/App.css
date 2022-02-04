@@ -1,9 +1,19 @@
+:root {
+  --color-white: #ffffff;
+  --color-red: #d01012;
+  --color-black: #000000;
+  --color-grey-transparent: #d3d3d33f;
+  --color-box-shadow: #6e6e6e49;
+
+  --font-poppins: 'Poppins', sans-serif;
+}
+
 * {
-  font-family: 'Poppins', sans-serif;
+  font-family: var(--font-poppins);
 }
 
 body {
-  background: #d3d3d33f;
+  background: var(--color-grey-transparent);
 }
 
 .jumbotron {
@@ -69,7 +79,7 @@ body {
 }
 
 #search-text {
-  font-family: 'Poppins', sans-serif;
+  font-family: var(--font-poppins);
   margin: 0px 0px 0px 10px;
   font-size: 17px;
   font-weight: 200;
@@ -106,9 +116,9 @@ body {
 
 .display-4 {
   display: flex;
-  font-family: 'Poppins', sans-serif;
+  font-family: var(--font-poppins);
   font-weight: 100;
-  color: #eeeeee;
+  color: var(--color-white);
   letter-spacing: 3px;
   margin-bottom: 0;
 }
@@ -121,7 +131,7 @@ body {
   margin-top: 0;
   opacity: 1;
   border: none;
-  box-shadow: 0px 2px 7px #6e6e6e49;
+  box-shadow: 0px 2px 7px var(--color-box-shadow);
   margin-bottom: 15px;
 }
 
@@ -135,7 +145,7 @@ body {
   display: flex;
   padding: 10px;
   overflow: hidden;
-  border-bottom: 1px solid #b4b4b471;
+  border-bottom: 1px solid var(--color-box-shadow);
   border-radius: .25rem .25rem 0rem 0rem;
 }
 
@@ -163,7 +173,7 @@ body {
 .card-btn {
   text-decoration: none;
   font-weight: bold;
-  color: #ffffff;
+  color: var(--color-white);
   font-size: 12px;
   padding: 3px 8px;
   display: flex;
@@ -179,26 +189,26 @@ body {
 .btn-danger {
   float: right;
   border-radius: 0px;
-  color: #eeeeee;
+  color: var(--color-white);
   border: none;
-  border: 1px solid #d01012;
-  background: #d01012;
+  border: 1px solid var(--color-red);
+  background: var(--color-red);
   padding: 0;
   transition: .1s ease-in-out;
 }
 
 .btn-danger:hover {
-  background: #eeeeee;
-  color: #d01012;
+  background: var(--color-white);
+  color: var(--color-red);
   transition: .1s ease-in-out;
 }
 
 button a {
-  color: white;
+  color: var(--color-white);
 }
 
 button a:hover {
-  color: #d01012;
+  color: var(--color-red);
 }
 
 span {
@@ -222,11 +232,11 @@ button {
   background-color: transparent;
   display: flex;
   height: 60px;
-  font-family: 'Poppins', sans-serif;
+  font-family: var(--font-poppins);
   font-weight: 500;
   font-size: 1rem;
   line-height: 30px;
-  color: #ffffff;
+  color: var(--color-white);
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -243,13 +253,13 @@ button {
 .footer-info span {
   margin-right: 5px;
   line-height: 33px;
-  font-family: 'Poppins', sans-serif;
+  font-family: var(--font-poppins);
   font-weight: 100;
 }
 
 .toggleFooter {
-  background: #000000;
-  color: #eeeeee;
+  background: var(--color-black);
+  color: var(--color-white);
   opacity: 0.75;
   height: 30px;
   transition: height .3s ease-in-out;
@@ -260,12 +270,10 @@ button {
   transform: translateY(2px);
   margin: 0px 5px;
   font-size: 22px;
-  color: #eeeeee;
+  color: var(--color-white);
 }
 
-
 /* variables */
-
 .card-col-one {
   margin: 0 auto;
   width: 100%;
