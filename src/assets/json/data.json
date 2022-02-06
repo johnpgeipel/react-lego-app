@@ -515,5 +515,27 @@
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6239916.pdf",
         "pdfTwo": ""
+    },
+    {
+        "setId": "40549",
+        "name": "Demogorgon & Eleven",
+        "pieces": "192",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/blt905da20201b51ab4/40549.png?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
+        "theme": "Stranger Things",
+        "array": "strangerArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt5263e797537376bc/Stranger-Things-logo.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6404248.pdf",
+        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6404251.pdf"
+    },
+    {
+        "setId": "40539",
+        "name": "Ahsoka Tano™",
+        "pieces": "164",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/bltad9845009a4ea9af/40539.png?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6400831.pdf",
+        "pdfTwo": ""
     }
 ]
