@@ -8,7 +8,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6330126.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "76126",
@@ -19,7 +20,8 @@
         "array": "marvelArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltdd909357fcaf0a02/Marvel.png?format=png&height=60&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6272034.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "76200",
@@ -30,7 +32,8 @@
         "array": "marvelArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltdd909357fcaf0a02/Marvel.png?format=png&height=60&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6380108.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75257",
@@ -41,7 +44,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6296457.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75292",
@@ -52,7 +56,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6332509.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75273",
@@ -63,7 +68,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6310760.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75249",
@@ -74,7 +80,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6296571.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75306",
@@ -85,7 +92,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6366003.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75254",
@@ -96,7 +104,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6296461.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75301",
@@ -107,7 +116,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6350588.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75300",
@@ -118,7 +128,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6352207.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75271",
@@ -129,7 +140,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6310848.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75299",
@@ -140,7 +152,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6350586.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75298",
@@ -151,7 +164,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6352211.pdf",
-        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6352020.pdf"
+        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6352020.pdf",
+        "pdfThree": ""
     },
     {
         "setId": "75317",
@@ -162,7 +176,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6334518.pdf",
-        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6334520.pdf"
+        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6334520.pdf",
+        "pdfThree": ""
     },
     {
         "setId": "75295",
@@ -173,7 +188,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6351680.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75281",
@@ -184,7 +200,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6330123.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75248",
@@ -195,7 +212,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6296589.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75049",
@@ -206,7 +224,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6093676.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "76201",
@@ -217,7 +236,8 @@
         "array": "marvelArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltdd909357fcaf0a02/Marvel.png?format=png&height=60&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6380737.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "42122",
@@ -228,7 +248,8 @@
         "array": "technicArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt76e937a89531c42c/technic_logo_pos_100h.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6364779.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "31107",
@@ -239,7 +260,8 @@
         "array": "creatorArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt53e5eeb1dac31640/creator3in1_logo_pos_100h.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/cs/set/assets/blt7400a500c110cee2/31107.jpg?fit=bounds&format=webply&quality=80&width=528&height=528&dpr=1.5",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "31088",
@@ -250,7 +272,8 @@
         "array": "creatorArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt53e5eeb1dac31640/creator3in1_logo_pos_100h.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6263589.pdf",
-        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6263590.pdf"
+        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6263590.pdf",
+        "pdfThree": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6263587.pdf"
     },
     {
         "setId": "31112",
@@ -261,7 +284,8 @@
         "array": "creatorArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt53e5eeb1dac31640/creator3in1_logo_pos_100h.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6351405.pdf",
-        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6351409.pdf"
+        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6351409.pdf",
+        "pdfThree": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6351412.pdf"
     },
     {
         "setId": "75532",
@@ -272,7 +296,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6218871.pdf",
-        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6199516.pdf"
+        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6199516.pdf",
+        "pdfThree": ""
     },
     {
         "setId": "30449",
@@ -283,7 +308,8 @@
         "array": "marvelArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltdd909357fcaf0a02/Marvel.png?format=png&height=60&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6196807.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "30525",
@@ -294,7 +320,8 @@
         "array": "marvelArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltdd909357fcaf0a02/Marvel.png?format=png&height=60&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6231792.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "40451",
@@ -305,7 +332,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "40407",
@@ -316,7 +344,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6323940.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "30497",
@@ -327,7 +356,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6201722.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "40422",
@@ -338,7 +368,8 @@
         "array": "brickArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt117f545a76e30723/brickheadz_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6328450.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "40436",
@@ -349,7 +380,8 @@
         "array": "brickArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt117f545a76e30723/brickheadz_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6309022.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "30388",
@@ -360,7 +392,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6356161.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75168",
@@ -371,7 +404,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6186617.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75312",
@@ -382,7 +416,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6382342.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75242",
@@ -393,7 +428,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6278405.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "30384",
@@ -404,7 +440,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6278169.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "30386",
@@ -415,7 +452,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6310733.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "30461",
@@ -426,7 +464,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6296767.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "30279",
@@ -437,7 +476,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6142970.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "30380",
@@ -448,7 +488,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6225823.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "75321",
@@ -459,7 +500,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6403572.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "76190",
@@ -470,7 +512,8 @@
         "array": "marvelArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltdd909357fcaf0a02/Marvel.png?format=png&height=60&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6380695.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "30454",
@@ -481,7 +524,8 @@
         "array": "marvelArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltdd909357fcaf0a02/Marvel.png?format=png&height=60&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6366165.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "30578",
@@ -492,7 +536,8 @@
         "array": "creatorArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt53e5eeb1dac31640/creator3in1_logo_pos_100h.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6348033.pdf",
-        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.additional.extra.pdf/30578_01_Build_Alt.pdf"
+        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.additional.extra.pdf/30578_01_Build_Alt.pdf",
+        "pdfThree": "https://www.lego.com/cdn/product-assets/product.bi.additional.extra.pdf/30578_02_Build_Alt.pdf"
     },
     {
         "setId": "31099",
@@ -503,7 +548,8 @@
         "array": "creatorArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt53e5eeb1dac31640/creator3in1_logo_pos_100h.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6308554.pdf",
-        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6308555.pdf"
+        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6308555.pdf",
+        "pdfThree": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6309240.pdf"
     },
     {
         "setId": "75214",
@@ -514,7 +560,8 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6239916.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     },
     {
         "setId": "40549",
@@ -525,7 +572,8 @@
         "array": "strangerArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/blt5263e797537376bc/Stranger-Things-logo.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6404248.pdf",
-        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6404251.pdf"
+        "pdfTwo": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6404251.pdf",
+        "pdfThree": ""
     },
     {
         "setId": "40539",
@@ -536,6 +584,7 @@
         "array": "starArr",
         "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
         "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6400831.pdf",
-        "pdfTwo": ""
+        "pdfTwo": "",
+        "pdfThree": ""
     }
 ]

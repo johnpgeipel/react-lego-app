@@ -115,6 +115,7 @@ class App extends Component {
                 pieces={ obj.pieces }
                 pdfOne={ obj.pdfOne }
                 pdfTwo={ obj.pdfTwo }
+                pdfThree={ obj.pdfThree }
                 columnClass="card-col-one"
                 containerClass="img-col-one"
                 titleClass="title-col-one"
@@ -133,6 +134,7 @@ class App extends Component {
                   pieces={ obj.pieces }
                   pdfOne={ obj.pdfOne }
                   pdfTwo={ obj.pdfTwo }
+                  pdfThree={ obj.pdfThree }
                   handleMouseEnter={this.handleMouseEnter}
                   handleMouseLeave={this.handleMouseLeave}
                 />

@@ -24,20 +24,32 @@ const Card = (props) => {
                     </div>
                     <hr/>
                     <span>Pieces: { props.pieces }</span>
-                    { props.pdfTwo ? (
+                    { props.pdfThree && props.pdfTwo && props.pdfOne? (
                         <>
-                        <button type="button" className="btn btn-danger">
-                            <a className="card-btn" href={ props.pdfTwo} target="_blank" rel="noreferrer">PDF 2</a>
-                        </button>
-                        <button type="button" className="btn btn-danger">
-                            <a className="card-btn" href={ props.pdfOne} target="_blank" rel="noreferrer">PDF 1</a>
-                        </button>
+                            <button type="button" className="btn btn-danger">
+                                <a className="card-btn" href={ props.pdfThree} target="_blank" rel="noreferrer">PDF 3</a>
+                            </button>
+                            <button type="button" className="btn btn-danger">
+                                <a className="card-btn" href={ props.pdfTwo} target="_blank" rel="noreferrer">PDF 2</a>
+                            </button>
+                            <button type="button" className="btn btn-danger">
+                                <a className="card-btn" href={ props.pdfOne} target="_blank" rel="noreferrer">PDF 1</a>
+                            </button>
                         </>
-                        ) : (
+                        ) : props.pdfTwo && props.pdfOne ? (
+                        <>
+                            <button type="button" className="btn btn-danger">
+                                <a className="card-btn" href={ props.pdfTwo} target="_blank" rel="noreferrer">PDF 2</a>
+                            </button>
+                            <button type="button" className="btn btn-danger">
+                                <a className="card-btn" href={ props.pdfOne} target="_blank" rel="noreferrer">PDF 1</a>
+                            </button>
+                        </>
+                        ) : props.pdfOne ? (
                         <button type="button" className="btn btn-danger">
                             <a className="card-btn single-pdf-btn" href={ props.pdfOne} target="_blank" rel="noreferrer">PDF</a>
                         </button>
-                        )
+                        ) : null
                     }
                 </div>
             </div>
