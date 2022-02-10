@@ -77,14 +77,14 @@ class App extends Component {
       maxScale: 5
     });
     panzoom.pan(10, 10);
-    panzoom.zoom(1.7, { animate: true });
+    panzoom.zoom(1.5, { animate: true });
   };
 
   handleMouseLeave = (e) => {
     const panzoom = Panzoom(e.target, {
       disablePan: true
     });
-    panzoom.zoom(1, { animate: true });
+    panzoom.zoom(1, { animate: true, duration: 250 });
     panzoom.resetStyle();
   };
 
@@ -92,7 +92,7 @@ class App extends Component {
     return (
       <div className="App">
         <Jumbotron
-          title="John's Legos"
+          title="Brickyard"
           toggleHeader={ this.state.toggleHeader }
           >
           <Form

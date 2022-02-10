@@ -6,6 +6,7 @@
   --color-box-shadow: #6e6e6e49;
 
   --font-poppins: 'Poppins', sans-serif;
+  --font-lobster: 'Lobster', cursive;
 }
 
 * {
@@ -116,7 +117,8 @@ body {
 
 .display-4 {
   display: flex;
-  font-family: var(--font-poppins);
+  /* font-family: var(--font-poppins); */
+  font-family: var(--font-lobster);
   font-weight: 100;
   color: var(--color-white);
   letter-spacing: 3px;
@@ -316,6 +318,10 @@ button {
 @media screen and (min-width: 576px) {
   .container {
     max-width: 100vw;
+  }
+
+  .card-btn {
+    width: 50px;
   }
 }
 
