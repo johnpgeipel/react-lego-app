@@ -5,8 +5,7 @@
     {
       "src": "lego-icon.png",
       "type": "image/png",
-      "sizes": "192x192",
-      "purpose": "any maskable"
+      "sizes": "192x192"
     },
     {
       "src": "lego-icon-lg.png",
@@ -18,5 +17,5 @@
   "scope": "./",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#999999"
+  "background_color": "#000000"
 }
