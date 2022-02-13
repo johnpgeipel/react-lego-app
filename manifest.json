@@ -1,6 +1,6 @@
 {
-  "name": "Create React App Sample",
-  "short_name": "React App",
+  "name": "Lego Brickyard React App",
+  "short_name": "Brickyard",
   "icons": [
     {
       "src": "favicon.ico",
