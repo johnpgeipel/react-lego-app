@@ -3,18 +3,18 @@
   "short_name": "Brickyard",
   "icons": [
     {
-      "src": "./maskable-icon_x192.png",
+      "src": "maskable_icon_x192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "maskable"
     },
     {
-      "src": "./lego-icon.png",
+      "src": "lego-icon.png",
       "type": "image/png",
       "sizes": "190x190"
     },
     {
-      "src": "./maskable-icon_x128.png",
+      "src": "maskable_icon_x128.png",
       "type": "image/png",
       "sizes": "128x128"
     }
