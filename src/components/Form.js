@@ -18,7 +18,7 @@ function Form(props) {
                 <i className="fa fa-search"><span id="search-text">Search</span></i>
             </div>
             <div className={!props.toggleSearch ? "select-form openForm" : "select-form"}>
-                <select id="form-select-name" className="form-select" aria-label="Select sets by name" onChange={props.handleItemSelect} defaultValue="Select Sets by Name">
+                <select id="form-select-name" className="form-select" aria-label="Select sets by name" onChange={props.handleItemSelect} value="Select Sets by Name">
                     <option id="form-option-name" value="Select Sets by Name" disabled>Select Sets by Name</option>
                     <option disabled></option>
                     <option value="All sets">All Sets</option>
@@ -28,7 +28,7 @@ function Form(props) {
                             ) : null
                         }
                 </select>
-                <select id="form-select-theme" className="form-select" aria-label="Select sets by theme" onChange={props.handleThemeSelect} defaultValue="Select Sets by Theme">
+                <select id="form-select-theme" className="form-select" aria-label="Select sets by theme" onChange={props.handleThemeSelect} value="Select Sets by Theme">
                     <option id="form-option-theme" disabled value="Select Sets by Theme">Select Sets by Theme</option>
                     <option disabled></option>
                     <option value="All sets">All Themes</option>
