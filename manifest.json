@@ -3,7 +3,7 @@
   "short_name": "Brickyard",
   "icons": [
     {
-      "src": "maskable_icon_x192.png",
+      "src": "brickyard_icon_x192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "maskable"
@@ -14,7 +14,7 @@
       "sizes": "190x190"
     },
     {
-      "src": "maskable_icon_x128.png",
+      "src": "brickyard_icon_x128.png",
       "type": "image/png",
       "sizes": "128x128"
     }
@@ -22,6 +22,6 @@
   "start_url": "index.html",
   "scope": "./",
   "display": "standalone",
-  "theme_color": "#35363A",
-  "background_color": "#35363A"
+  "theme_color": "#000000",
+  "background_color": "#000000"
 }
