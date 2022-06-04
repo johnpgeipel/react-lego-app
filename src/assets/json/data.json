@@ -634,5 +634,41 @@
         "pdfOne": "https://eu-central-1.linodeobjects.com/rebrickable-set-bi-files/30495-1/6401256.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=8T54O8O6K4HSWJMRLNHP%2F20220604%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20220604T205432Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=545f3dc085c612f50abf68f75dc30c27a688f622eef7f76eecd0691c8f30c836",
         "pdfTwo": "",
         "pdfThree": ""
+    },
+    {
+        "setId": "75330",
+        "name": "Dagobah™ Jedi™ Training Diorama",
+        "pieces": "1000",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/bltb94f536295aefebf/75330.png?fit=bounds&format=webply&quality=80&width=800&height=800&dpr=1",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6417349.pdf",
+        "pdfTwo": "",
+        "pdfThree": ""
+    },
+    {
+        "setId": "75329",
+        "name": "Death Star™ Trench Run Diorama",
+        "pieces": "665",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/blt054743e11f8ee2d1/75329.png?fit=bounds&format=webply&quality=80&width=800&height=800&dpr=1",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6417549.pdf",
+        "pdfTwo": "",
+        "pdfThree": ""
+    },
+    {
+        "setId": "75320",
+        "name": "Snowtrooper™ Battle Pack",
+        "pieces": "105",
+        "imgUrl": "https://www.lego.com/cdn/cs/set/assets/blta68f547767fb6b51/75320_Prod.png?fit=bounds&format=webply&quality=80&width=800&height=800&dpr=1",
+        "theme": "Star Wars",
+        "array": "starArr",
+        "themeLogo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=40&dpr=1",
+        "pdfOne": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6404472.pdf",
+        "pdfTwo": "",
+        "pdfThree": ""
     }
 ]
