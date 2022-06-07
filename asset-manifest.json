@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-lego-app/static/css/main.02a67a68.chunk.css",
-    "main.js": "/react-lego-app/static/js/main.bafaed50.chunk.js",
-    "main.js.map": "/react-lego-app/static/js/main.bafaed50.chunk.js.map",
+    "main.css": "/react-lego-app/static/css/main.e806e411.chunk.css",
+    "main.js": "/react-lego-app/static/js/main.58561888.chunk.js",
+    "main.js.map": "/react-lego-app/static/js/main.58561888.chunk.js.map",
     "runtime-main.js": "/react-lego-app/static/js/runtime-main.803e3365.js",
     "runtime-main.js.map": "/react-lego-app/static/js/runtime-main.803e3365.js.map",
     "static/js/2.c397c5ba.chunk.js": "/react-lego-app/static/js/2.c397c5ba.chunk.js",
     "static/js/2.c397c5ba.chunk.js.map": "/react-lego-app/static/js/2.c397c5ba.chunk.js.map",
     "index.html": "/react-lego-app/index.html",
-    "static/css/main.02a67a68.chunk.css.map": "/react-lego-app/static/css/main.02a67a68.chunk.css.map",
+    "static/css/main.e806e411.chunk.css.map": "/react-lego-app/static/css/main.e806e411.chunk.css.map",
     "static/js/2.c397c5ba.chunk.js.LICENSE.txt": "/react-lego-app/static/js/2.c397c5ba.chunk.js.LICENSE.txt",
     "static/media/App.css": "/react-lego-app/static/media/darkGrey-lego-1.9c11a9a8.jpg",
     "static/media/lego-logo.b02efc07.svg": "/react-lego-app/static/media/lego-logo.b02efc07.svg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.803e3365.js",
     "static/js/2.c397c5ba.chunk.js",
-    "static/css/main.02a67a68.chunk.css",
-    "static/js/main.bafaed50.chunk.js"
+    "static/css/main.e806e411.chunk.css",
+    "static/js/main.58561888.chunk.js"
   ]
 }
