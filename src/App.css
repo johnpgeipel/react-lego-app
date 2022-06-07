@@ -169,6 +169,7 @@ body {
 .card-title-container {
   height: 75px;
   padding-top: 15px;
+  margin-bottom: 2rem;
 }
 
 .card-btn {
@@ -285,18 +286,19 @@ button {
   height: 50vh;
 }
 
+.title-col-one, .card-title {
+  font-size: clamp(1.25rem, 0.5rem + 1vw, 1.85rem);
+  line-height: 2rem;
+}
+
 .title-col-one {
-  font-size: 2rem;
+  font-size: clamp(1.25rem, 1rem + 1vw, 3rem);
   line-height: 2rem;
 }
 
 @media screen and (max-width: 577px) {
   .form-select {
       width: 250px;
-  }
-  .card-title,
-  title-col-one {
-      font-size: 25px;
   }
   .card-col-one {
       max-width: 350px;
@@ -317,6 +319,12 @@ button {
 
   .card-btn {
     width: 50px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .container {
+    max-width: 991px;
   }
 }
 
