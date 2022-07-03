@@ -172,6 +172,10 @@ body {
   margin-bottom: 2rem;
 }
 
+.card-title {
+  cursor: pointer;
+}
+
 .card-btn {
   text-decoration: none;
   font-weight: bold;

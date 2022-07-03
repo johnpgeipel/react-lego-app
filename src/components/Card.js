@@ -20,7 +20,7 @@ const Card = (props) => {
                     <h6 className="card-id">#{ props.setId }</h6>
                     <img className="theme-logo" alt="theme logo" src={ props.themeLogo}></img>
                     <div className="card-title-container">
-                        <h5 className={"card-title " + props.titleClass}>{ props.name }</h5>
+                        <h5 className={"card-title " + props.titleClass} value={props.setId} onClick={props.handleCardItemSelect}>{ props.name }</h5>
                     </div>
                     <hr/>
                     <span>Pieces: { props.pieces }</span>

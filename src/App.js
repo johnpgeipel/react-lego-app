@@ -27,6 +27,7 @@ class App extends Component {
 
   handleItemSelect = (event) => {
     const eventVal = event.target.value;
+  
     this.setState({
       selectVal: eventVal,
       currentSet: eventVal === "All sets" ? this.state.data : this.state.data.filter( item => item.setId === eventVal),
@@ -35,6 +36,20 @@ class App extends Component {
       toggleFooter: true
     });
     this.cardContainerStyle();
+  };
+
+  handleCardItemSelect = (event) => {
+    const eventVal = event.target.getAttribute("value");
+  
+    this.setState({
+      selectVal: eventVal,
+      currentSet: eventVal === "All sets" ? this.state.data : this.state.data.filter( item => item.setId === eventVal),
+      toggleSearch: true,
+      toggleHeader: true,
+      toggleFooter: true
+    });
+    this.cardContainerStyle();
+    console.log(this.state);
   };
 
   handleThemeSelect = (event) => {
@@ -121,6 +136,7 @@ class App extends Component {
                 titleClass="title-col-one"
                 handleMouseEnter={this.handleMouseEnter}
                 handleMouseLeave={this.handleMouseLeave}
+                handleCardItemSelect={this.handleCardItemSelect}
               />
             ) :
             this.state.currentSet ?
@@ -135,8 +151,12 @@ class App extends Component {
                   pdfOne={ obj.pdfOne }
                   pdfTwo={ obj.pdfTwo }
                   pdfThree={ obj.pdfThree }
+                  columnClass=""
+                  containerClass=""
+                  titleClass=""
                   handleMouseEnter={this.handleMouseEnter}
                   handleMouseLeave={this.handleMouseLeave}
+                  handleCardItemSelect={this.handleCardItemSelect}
                 />
             ) : null
           }
